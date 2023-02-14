@@ -1,7 +1,8 @@
 <h1>“Qual é a sua ideia de Computação Visual?”</h1>
 
-<p>Bruno Frischer</p>
-<p>Computação Visual é uma forma de representação através de imagens sendo elas tanto 2D quanto 3D.</p>
+<p>Bruno Frischer
+<br>
+Computação Visual é uma forma de representação através de imagens sendo elas tanto 2D quanto 3D.</p>
 
 <p>Gustavo Eizono Cruz
 <br>
