@@ -22,4 +22,4 @@
   
   ![image](https://user-images.githubusercontent.com/64294820/223564040-0825131c-7ef6-48ec-b38d-5ea0a1e0f8dc.png)
 
-<p>Em conclusão, achamos o trabalho interessante pelo fato que desde 
+<p>Em conclusão, achamos o trabalho interessante pelo fato que o aprimoramento da tecnologia e dos diversos ramos que usam ela, como medicina, engenharia, e entre outras, a criação de algoritmos com uso de imagem para tratar problemas capturados via imagem, como no caso deste artigo, e através do uso de filtros de computação gráfica, podendo tratar as imagens, otimizando seu uso e armazenamento através de médicos e pessoas da área da saúde para ajudar seus pacientes.</p>
