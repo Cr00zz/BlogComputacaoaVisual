@@ -1,1 +1,3 @@
-Se as imagens de entrada não possuírem canais de cor compatíveis, o resultado da multiplicação será uma imagem completamente branca, ou seja, todos os pixels terão valores iguais a 255. Por exemplo, se img1 for uma imagem em escala de cinza (com um único canal de cor) e img2 for uma imagem colorida (com três canais de cor), o resultado da multiplicação será uma imagem completamente branca.
+<h2>Diferenças entre tex1 * tex2 e mul(tex1, tex2)</h2>
+
+<p>Se as imagens de entrada não possuírem canais de cor compatíveis, o resultado da multiplicação será uma imagem completamente branca, ou seja, todos os pixels terão valores iguais a 255. Por exemplo, se img1 for uma imagem em escala de cinza (com um único canal de cor) e img2 for uma imagem colorida (com três canais de cor), o resultado da multiplicação será uma imagem completamente branca.</p>
